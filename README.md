@@ -66,3 +66,19 @@ Pour exécuter le programme :
 ```sh
 ./bin/bissextile
 ```
+
+```
+#################################################
+#           WELCOME TO THIS PROGRAM!            #
+#################################################
+
+Tapez 1: Pour verifier si une annee est bissexile;
+Tapez 2: Pour determiner si un mois est de 31 jours;
+Tapez 3: Pour verifier la validite d'une date donnee
+         et calculer la date du lendemain.
+
+Choisissez une option : 3
+Entrez la date (eg: 19/9/2023) :31/12/2009
+La date 31/12/2009 est valide.
+La date du lendemain est : 01/01/2010
+```
